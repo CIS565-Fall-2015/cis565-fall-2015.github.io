@@ -1,2 +1,3 @@
-# cis565-fall-2015.github.io
-CIS 565 website
+Course website for CIS 565 at the University of Pennsylvania
+
+[http://seas.upenn.edu/~cis565/](http://seas.upenn.edu/~cis565/)
