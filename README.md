@@ -8,7 +8,7 @@ TBA
 
 # Course Projects
 
-* P0 - CUDA setup
+* P0 - [CUDA getting started](https://github.com/CIS565-Fall-2015/Project0-CUDA-Getting-Started), due Wednesday, September 2.
 * P1 - N-body simulation
 * P2 - Stream compaction
 * P3 - GPU path tracer
