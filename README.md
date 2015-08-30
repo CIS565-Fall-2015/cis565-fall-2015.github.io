@@ -4,7 +4,10 @@ Course website for CIS 565 at the University of Pennsylvania
 
 # Course Schedule
 
-TBA
+| Date  | Topic                                         | Reading                |
+|-------|-----------------------------------------------|------------------------|
+08/31   | [Course overview](lectures/0-Course-Overview.pptx) / [CUDA crash course](lectures/1-CUDA-Introduction-1.pptx)           | PMPP Chapters 3        |
+
 
 # Course Projects
 
