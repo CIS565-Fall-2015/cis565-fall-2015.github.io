@@ -7,12 +7,13 @@ Course website for CIS 565 at the University of Pennsylvania
 | Date  | Topic                                         | Reading                |
 |-------|-----------------------------------------------|------------------------|
 08/31   | [Course overview](lectures/0-Course-Overview.pptx?raw=true) / [CUDA crash course](lectures/1-CUDA-Introduction-1.pptx?raw=true)           | PMPP Chapters 3        |
-
+| 09/08 (**Tuesday**) | | |
+| 09/14 | | |
 
 # Course Projects
 
 * P0 - [CUDA getting started](https://github.com/CIS565-Fall-2015/Project0-CUDA-Getting-Started), due Wednesday, September 2.
-* P1 - N-body simulation
+* P1 - [N-body simulation](https://github.com/CIS565-Fall-2015/Project1-CUDA-Introduction), due Sunday, September 6.
 * P2 - Stream compaction
 * P3 - GPU path tracer
 * P4 - GPU rasterizer
