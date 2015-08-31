@@ -7,7 +7,7 @@ Course website for CIS 565 at the University of Pennsylvania
 | Date  | Topic                                         | Reading                |
 |-------|-----------------------------------------------|------------------------|
 08/31   | [Course overview](lectures/0-Course-Overview.pptx?raw=true) / [CUDA crash course](lectures/1-CUDA-Introduction-1.pptx?raw=true)           | PMPP Chapters 3        |
-| 09/08 (**Tuesday**) | | |
+| 09/08 (**Tuesday, 6-9pm, Towne 309**) | | |
 | 09/14 | | |
 
 # Course Projects
