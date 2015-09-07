@@ -7,7 +7,7 @@ Course website for CIS 565 at the University of Pennsylvania
 | Date  | Topic                                         | Reading                |
 |-------|-----------------------------------------------|------------------------|
 08/31   | [Course overview](lectures/0-Course-Overview.pptx?raw=true) / [CUDA crash course](lectures/1-CUDA-Introduction-1.pptx?raw=true)           | PMPP Chapters 3        |
-| 09/08 (**Tuesday, 6-9pm, Towne 309**) | | |
+| 09/08 (**Tuesday, 6-9pm, Towne 309**) | [Parallel algorithms](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/2-Parallel-Algorithms.pptx) / Parallel Nsight / GPU architecture | [Parallel Prefix Sum (Scan) with CUDA](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch39.html) |
 | 09/14 | | |
 
 # Course Projects
