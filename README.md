@@ -8,7 +8,7 @@ Course website for CIS 565 at the University of Pennsylvania
 |-------|-----------------------------------------------|------------------------|
 08/31   | [Course overview](lectures/0-Course-Overview.pptx?raw=true) :small_blue_diamond: [CUDA crash course](lectures/1-CUDA-Introduction-1.pptx?raw=true)           | PMPP Chapters 3        |
 | 09/08 (**Tuesday, 6-9pm, Towne 309**) | [Parallel algorithms](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/2-Parallel-Algorithms.pptx) :small_blue_diamond: Parallel Nsight :small_blue_diamond: [GPU architecture](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/3-GPU-Architecture-Overview.pptx) | [Parallel Prefix Sum (Scan) with CUDA](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch39.html) :small_blue_diamond: [Modern Microprocessors. A 90 Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/) :small_blue_diamond: PMPP Chapter 1 |
-| 09/14 | [CUDA: Part 2](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/4-CUDA-Introduction-2-of-2.pptx) | PMPP Chapters 3, 4, and 5 |
+| 09/14 | [CUDA: Part 2](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/4-CUDA-Introduction-2-of-2.pptx) :small_blue_diamond: [Parallel algorithms: Part 2](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/5-Parallel-Algorithms-2.pptx) | PMPP Chapters 3, 4, and 5 :small_blue_diamond: [How to make an attractive GitHub repo](https://github.com/pjcozzi/Articles/tree/master/CIS565/GitHubRepo) |
 
 # Course Projects
 
