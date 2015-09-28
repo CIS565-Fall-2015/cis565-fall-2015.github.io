@@ -15,7 +15,7 @@ Course website for CIS 565 at the University of Pennsylvania
 10/12 | - | -
 10/19 | - | -
 10/26 | - | -
-11/02 | - | -
+11/02 | Patricio Gonzalez Vivo, Mapzen | -
 11/09 | Shannon Woods, Google | -
 11/16 (**5pm**) | Tarek Sherif, BioDigital | -
 11/23 | Dave Kotfis, Lockheed Martin | -
