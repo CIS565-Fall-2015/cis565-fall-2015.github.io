@@ -29,7 +29,7 @@ Course website for CIS 565 at the University of Pennsylvania
 * P1 - [N-body simulation](https://github.com/CIS565-Fall-2015/Project1-CUDA-Introduction), due Monday, September 7.
 * P2 - [Stream compaction](https://github.com/CIS565-Fall-2015/Project2-Stream-Compaction/blob/master/README.md), due Sunday, September 13.
 * P3 - [GPU path tracer](https://github.com/CIS565-Fall-2015/Project3-CUDA-Path-Tracer), due Tuesday, September 29.
-* P4 - GPU rasterizer, due Sunday, October 11.
+* P4 - [GPU rasterizer](https://github.com/CIS565-Fall-2015/Project4-CUDA-Rasterizer), due Sunday, October 11.
 * P5 - WebGL ray marcher
 * P6 - WebGL deferred shader
 * P7 - OpenGL compute shader
