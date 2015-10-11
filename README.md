@@ -14,7 +14,7 @@ Course website for CIS 565 at the University of Pennsylvania
 09/21 | [CUDA Performance](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/7-CUDA-Performance.pptx)  :small_blue_diamond: [Parallel algorithms: Part 2](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/5-Parallel-Algorithms-2.pptx) | PMPP Chapter 6
 **09/30 (Wednesday, Moore 212)** | [Graphics Pipeline: 1 of 2](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/09-Graphics-Pipeline.pptx) :small_blue_diamond: [CUDA Atomics](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/8-CUDA-Atomics.pptx) | RTR Chapters 1 and 2
 10/05 | Graphics Pipeline: 2 of 2 :small_blue_diamond: [Mobile Graphics](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/raw/master/lectures/10-Mobile-Graphics.pptx) | [OpenGL Insights Chapter 23](http://www.seas.upenn.edu/~pcozzi/OpenGLInsights/OpenGLInsights-TileBasedArchitectures.pdf)
-10/12 | - | -
+10/12 | - | [Numerical Methods for Ray Tracing Implicitly Defined Surfaces](http://graphics.cs.williams.edu/courses/cs371/f14/reading/implicit.pdf)
 10/19 | - | -
 10/26 | - | -
 11/02 | Patricio Gonzalez Vivo, Mapzen | -
