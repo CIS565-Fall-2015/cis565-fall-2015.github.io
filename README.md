@@ -35,3 +35,9 @@ Course website for CIS 565 at the University of Pennsylvania
 * P5 - [WebGL ray marcher](https://github.com/CIS565-Fall-2015/Project5-GLSL-Ray-Marcher), due Monday, October 19.
 * P6 - WebGL deferred shader
 * P7 - OpenGL compute shader
+
+# Bonus Slides
+
+Material from previous semesters that we did not cover:
+
+* [SSAO](http://cis565-fall-2014.github.io/lectures/11-03-Ambient-Occlusion.pptx)
