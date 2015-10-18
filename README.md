@@ -40,4 +40,7 @@ Course website for CIS 565 at the University of Pennsylvania
 
 Material from previous semesters that we did not cover:
 
+* [CUDA Profiling and Debugging](http://cis565-fall-2014.github.io/lectures/09-22-CUDA-Profiling-and-Debugging.pptx) by Zakiuddin Shehzan Ayub Mohammed, ArrayFire
+* [CUDA Odds and Ends](http://cis565-fall-2013.github.io/lectures/10-02-CUDA-Odds-and-Ends.pptx)
 * [SSAO](http://cis565-fall-2014.github.io/lectures/11-03-Ambient-Occlusion.pptx)
+* [Shadows](http://cis565-fall-2014.github.io/lectures/10-27-Shadows.pdf) by Sean Lilley
