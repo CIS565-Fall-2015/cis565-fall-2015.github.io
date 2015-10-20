@@ -33,7 +33,7 @@ Course website for CIS 565 at the University of Pennsylvania
 * P3 - [GPU path tracer](https://github.com/CIS565-Fall-2015/Project3-CUDA-Path-Tracer), due Tuesday, September 29.
 * P4 - [GPU rasterizer](https://github.com/CIS565-Fall-2015/Project4-CUDA-Rasterizer), due Sunday, October 11.
 * P5 - [WebGL ray marcher](https://github.com/CIS565-Fall-2015/Project5-GLSL-Ray-Marcher), due Monday, October 19.
-* P6 - WebGL deferred shader, due Sunday, October 25
+* P6 - [WebGL deferred shader](https://github.com/CIS565-Fall-2015/Project6-WebGL-Deferred-Shading), due Sunday, October 25
 * P7 - OpenGL compute shader
 
 # Bonus Slides
