@@ -18,11 +18,11 @@ Course website for CIS 565 at the University of Pennsylvania
 10/19 | [WebGL](lectures/13-WebGL.pptx?raw=true) :small_blue_diamond: [Deferred Shading](lectures/14-Deferred-Shading.pptx?raw=true) |  :small_blue_diamond: [WebGL Debugging and Profiling Tools](http://www.realtimerendering.com/blog/webgl-debugging-and-profiling-tools/) :small_blue_diamond: [code examples](webgl-examples) :small_blue_diamond: [WebGL Deferred Shading](https://hacks.mozilla.org/2014/01/webgl-deferred-shading/)
 10/26 | [WebGL Profiling Lab](https://github.com/CIS565-Fall-2015/WebGL-Profiling-Lab) | -
 11/02 | Patricio Gonzalez Vivo, Mapzen | -
-11/09 | Shannon Woods, Google | -
+11/09 | - | -
 11/16 (**5pm**) | Tarek Sherif, BioDigital | -
 11/23 | Dave Kotfis, Lockheed Martin | -
 11/30 | Tim Kaldewey, IBM Research | -
-12/07 (Last day of class)       | - | -
+12/07 (Last day of class)       | Shannon Woods, Google | -
 12/11 (Friday, Start of finals) | - | -
 
 # Course Projects
