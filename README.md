@@ -17,8 +17,8 @@ Course website for CIS 565 at the University of Pennsylvania
 10/12 | [GLSL](11-GLSL.pptx?raw=true) :small_blue_diamond: [Ray Marching](12-Ray-Marching.pptx?raw=true) | [Numerical Methods for Ray Tracing Implicitly Defined Surfaces](http://graphics.cs.williams.edu/courses/cs371/f14/reading/implicit.pdf)
 10/19 | [WebGL](lectures/13-WebGL.pptx?raw=true) :small_blue_diamond: [Deferred Shading](lectures/14-Deferred-Shading.pptx?raw=true) |  :small_blue_diamond: [WebGL Debugging and Profiling Tools](http://www.realtimerendering.com/blog/webgl-debugging-and-profiling-tools/) :small_blue_diamond: [code examples](webgl-examples) :small_blue_diamond: [WebGL Deferred Shading](https://hacks.mozilla.org/2014/01/webgl-deferred-shading/)
 10/26 | [WebGL Profiling Lab](https://github.com/CIS565-Fall-2015/WebGL-Profiling-Lab) | -
-11/02 | Patricio Gonzalez Vivo, Mapzen | -
-11/09 | - | -
+11/02 | Patricio Gonzalez Vivo, Mapzen :small_blue_diamond: [Final Project Kickoff](https://github.com/CIS565-Fall-2015/Final-Project) | -
+**Tuesday 11/10** | Final Project Pitches | -
 11/16 (**5pm**) | Tarek Sherif, BioDigital | -
 11/23 | Dave Kotfis, Lockheed Martin | -
 11/30 | Tim Kaldewey, IBM Research | -
