@@ -23,7 +23,7 @@ Course website for CIS 565 at the University of Pennsylvania
 11/23 | Dave Kotfis, Lockheed Martin | -
 11/30 | Tim Kaldewey, IBM Research | -
 12/07 (Last day of class)       | Shannon Woods, Google | -
-12/11 (Friday, Start of finals) | - | -
+12/11 (Friday, 5pm, Start of finals) | - | -
 
 # Course Projects
 
