@@ -19,7 +19,7 @@ Course website for CIS 565 at the University of Pennsylvania
 10/26 | [WebGL Profiling Lab](https://github.com/CIS565-Fall-2015/WebGL-Profiling-Lab) | -
 11/02 | Patricio Gonzalez Vivo, Mapzen :small_blue_diamond: [Final Project Kickoff](https://github.com/CIS565-Fall-2015/Final-Project) | -
 **11/10 (Tuesday, SIG lab)** | Final Project Pitches | -
-11/16 (**5pm**) | Tarek Sherif, BioDigital | -
+11/16 (**5pm, SIG lab conference room**) | Tarek Sherif, BioDigital | -
 11/23 | Dave Kotfis, Lockheed Martin | -
 11/30 | Tim Kaldewey, IBM Research | -
 12/07 (Last day of class)       | Shannon Woods, Google | -
