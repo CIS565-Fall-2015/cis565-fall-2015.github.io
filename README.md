@@ -22,7 +22,7 @@ Course website for CIS 565 at the University of Pennsylvania
 11/16 (**5pm, SIG lab conference room**) | [WebGL in Production: Content, Rendering and Integration in the BioDigital Human](http://tsherif.github.io/upenn-biodigital/#/). Tarek Sherif, BioDigital | -
 11/23 | Dave Kotfis, Lockheed Martin | -
 11/30 | Accelerating Watson Workloads - Enhancing, scaling, and accelerating human expertise. Tim Kaldewey, IBM Research | -
-12/07 (Last day of class)       | Graphics API Wrangling with ANGLE. Shannon Woods, Google | -
+12/07 (Last day of class)       | [Graphics API Wrangling with ANGLE](https://docs.google.com/presentation/d/1vN_KTFDaKjFlIgx1vM3ZFA4Rkf723onAAhIfKR7kmgA/edit?usp=sharing). Shannon Woods, Google | -
 12/11 (Friday, 5pm, Moore 212) | - | -
 
 # Course Projects
